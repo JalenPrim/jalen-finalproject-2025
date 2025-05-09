@@ -8,10 +8,3 @@ table, th, td {
        border-radius: 5px;
   }
 
-div {
-  width: 320px;
-  height: 50px;
-  padding: 10px;
-  border: 5px solid gray;
-  margin: 0;
-}
