@@ -5,6 +5,9 @@ table, th, td {
   height: 50px;
   padding: 10px;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items:center;
 }
   .header {
  background-color: #6590aa;
@@ -12,10 +15,3 @@ table, th, td {
        border-radius: 5px;
   }
 
-table, th, td {
-  width: 320px;
-  height: 50px;
-  padding: 10px;
-  border: 5px solid gray;
-  margin: 0;
-}
