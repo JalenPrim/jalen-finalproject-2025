@@ -8,7 +8,7 @@ table, th, td {
        border-radius: 5px;
   }
 
-th, td {
+table, th, td {
   width: 320px;
   height: 50px;
   padding: 10px;
