@@ -5,6 +5,8 @@ table, th, td {
   height: 50px;
   padding: 10px;
   margin: 0;
+  td 
+  text-align: center;
 }
   .header {
  background-color: #6590aa;
