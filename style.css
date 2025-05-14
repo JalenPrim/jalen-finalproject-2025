@@ -73,14 +73,6 @@ div.scroll-container img {
   display: block;
 }
 
-table, th, td {
-  border: 5px solid gray;
-  border-collapse: collapse;
-  width: 320px;
-  height: 50px;
-  padding: 10px;
-  margin: 0;
-}
   .header {
  background-color: #6590aa;
        padding: 20px;
