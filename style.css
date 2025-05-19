@@ -79,5 +79,8 @@ div.scroll-container img {
        border-radius: 5px;
   }
 
-
+.header {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngV8lxtUhNpb6H_M0evCXH849GkN1H57Vxg&s);
+   opacity: 0.2;
+}
 
